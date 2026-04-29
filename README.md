@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F5C8B&width=500&lines=Hi%2C+I'm+Blaise+%F0%9F%91%8B;MSc+Cybersecurity+%40+BTU+Cottbus;Security+%7C+Data+%7C+Linux+Daily+Driver)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=bnyange&color=1F5C8B&style=flat-square&label=Profile+views)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-00B16A?style=flat-square&logo=github&logoColor=white)
+
 ## Hi there👋
 
 MSc Cybersecurity student at **Brandenburg University of Technology** in Cottbus,
@@ -27,9 +30,27 @@ BI & Viz     →  Power BI · Google Analytics · Excel (Advanced)
 Dev          →  C · C++ · Bash · PHP · HTML · CSS · Git
 OS           →  Linux (Kali / Ubuntu) — daily driver, not just for class
 ```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bnyange&show_icons=true&hide_border=true&count_private=true&theme=default" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnyange&layout=compact&hide_border=true&theme=default" height="160">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bnyange&hide_border=true">
+</p>
 
 ---
-
 ## Projects I'm proud of
 
 ⚽ Football Match Prediction Engine *(ongoing)*
@@ -86,9 +107,8 @@ constraints, joins, and queries. freeCodeCamp certified.
 
 ## Get in touch
 
-📧 blaisenyange10@gmail.com
-💼 linkedin.com/in/blaise-mbogho
-📍 Cottbus, Germany
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blaisenyange10@gmail.com)
 
 I reply fast.
 
