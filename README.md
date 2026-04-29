@@ -88,5 +88,4 @@ constraints, joins, and queries. freeCodeCamp certified.
 💼 linkedin.com/in/blaise-mbogho
 📍 Cottbus, Germany
 
-I reply fast. If you're hiring or know someone who is, let's talk.<!--
-**bnyange/bnyange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I reply fast.
