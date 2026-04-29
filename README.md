@@ -99,7 +99,7 @@ constraints, joins, and queries. freeCodeCamp certified.
 - 🇩🇪 Improving my German every day (currently B1)
 
 ---
-![Snake animation](https://raw.githubusercontent.com/bnyange/bnyange/output/github-snake.svg#gh-light-mode-only)
+
 ![Snake animation](https://raw.githubusercontent.com/bnyange/bnyange/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
