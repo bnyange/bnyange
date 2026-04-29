@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F5C8B&width=500&lines=Hi%2C+I'm+Blaise+%F0%9F%91%8B;MSc+Cybersecurity+%40+BTU+Cottbus;Security+%7C+Data+%7C+Linux+Daily+Driver)](https://git.io/typing-svg)
+
 ## Hi there👋
 
 MSc Cybersecurity student at **Brandenburg University of Technology** in Cottbus,
