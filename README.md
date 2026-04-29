@@ -57,7 +57,7 @@ Jupyter Notebooks.
 
 🔐 Network Exploitation & Remote Buffer Overflow
 C-based exploit achieving RCE via stack buffer overflow. Bash-automated full attack
-chain. Mapped 8 OWASP Top 10 vulnerabilities with a CVE-referenced risk report.
+chain.
 
 🌱 Carbon Offset Platform *(prototype)*
 Web platform connecting African farmers with European companies for mutual CO₂
