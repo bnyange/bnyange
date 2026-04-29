@@ -91,3 +91,5 @@ constraints, joins, and queries. freeCodeCamp certified.
 📍 Cottbus, Germany
 
 I reply fast.
+
+![snake](https://raw.githubusercontent.com/bnyange/bnyange/output/github-snake.svg)
