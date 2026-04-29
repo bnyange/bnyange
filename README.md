@@ -80,11 +80,6 @@ Jupyter Notebooks.
 C-based exploit achieving RCE via stack buffer overflow. Bash-automated full attack
 chain.
 
-🌱 Carbon Offset Platform *(prototype)*
-Web platform connecting African farmers with European companies for mutual CO₂
-offsetting — so reforestation gets compensated and corporates hit net-zero targets.
-Paused at working prototype. Data model and REST API designed.
-
 🤖 AI-Powered Lead Enrichment
 Python scraper that collects and structures company data and emails automatically.
 Cut hours of manual research to seconds.
